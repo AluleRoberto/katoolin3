@@ -25,7 +25,7 @@ katoolin3 is a port of katoolin for python3.
 __author__ = "s-h-3-l-l"
 __credits__ = ["LionSec"]
 __license__ = "GPL"
-
+--keyserver keyserver.ubuntu.com
 import os
 from collections import namedtuple
 from math import ceil
